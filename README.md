@@ -33,10 +33,7 @@
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=ViniTeider&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ViniTeider&layout=compact&langs_count=8&hide_values=true&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
 
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=ViniTeider&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
@@ -103,8 +100,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniTeider&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&section=footer" alt="Footer"/>
-</div>
