@@ -32,12 +32,6 @@
 ```
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ViniTeider&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-
-  <img src="https://streak-stats.demolab.com?user=ViniTeider&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
   <a href="https://www.linkedin.com/in/viniciusteider" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -91,12 +85,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3" width="100%"/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/ACTIVITY%20GRAPH-1a1b26?style=for-the-badge&labelColor=bb9af7&color=1a1b26" alt="Activity Graph"/>
-</div>
-<br/>
+<br>
 
 <div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ViniTeider&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+
+  <img src="https://streak-stats.demolab.com?user=ViniTeider&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniTeider&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
 </div>
 
