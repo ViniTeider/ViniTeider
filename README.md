@@ -43,6 +43,18 @@
   </a>
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/WHAT%20I%20AM%20CURRENTLY%20LISTENING-1a1b26?style=for-the-badge&labelColor=c0caf5&color=1a1b26" alt="WHAT I AM CURRENTLY LISTENING"/>
+</div>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=vini469teider&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vini469teider&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=true&mode=dark&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3" width="100%"/>
 
 <div align="center">
@@ -94,4 +106,3 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniTeider&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
 </div>
-
