@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Vinicius%20Teider&fontSize=90&theme=tokyonight&animation=fadeIn" alt="header" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=7aa2f7&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;React+%26+React+Native;.NET+%26+Node.js;Global+Systems" alt="Typing SVG" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3" width="100%"/>
 
 <div align="center">
