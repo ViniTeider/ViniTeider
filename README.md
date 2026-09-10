@@ -53,46 +53,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3" width="100%"/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/TECH%20STACK-1a1b26?style=for-the-badge&labelColor=e0af68&color=1a1b26" alt="Tech Stack"/>
-</div>
-<br/>
-
-<table align="center">
-  <tr>
-    <td align="center" >
-      <img src="https://img.shields.io/badge/FRONT--END-1a1b26?style=flat-square&labelColor=7aa2f7&color=1a1b26" alt="Front-End"/><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,html" alt="Front-End Stack"/>
-    </td>
-    <td align="center" >
-      <img src="https://img.shields.io/badge/BACK--END-1a1b26?style=flat-square&labelColor=bb9af7&color=1a1b26" alt="Back-End"/><br/><br/>
-      <img src="https://skillicons.dev/icons?i=dotnet,cs,php,nodejs,go,java" alt="Back-End Stack"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" >
-      <img src="https://img.shields.io/badge/DEVOPS%20%26%20CLOUD-1a1b26?style=flat-square&labelColor=7dcfff&color=1a1b26" alt="DevOps & Cloud"/><br/><br/>
-      <img src="https://skillicons.dev/icons?i=azure,githubactions,aws" alt="DevOps Stack"/>
-    </td>
-    <td align="center" >
-      <img src="https://img.shields.io/badge/DATABASES-1a1b26?style=flat-square&labelColor=9ece6a&color=1a1b26" alt="Databases"/><br/><br/>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database Stack"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" >
-      <img src="https://img.shields.io/badge/TOOLS-1a1b26?style=flat-square&labelColor=f7768e&color=1a1b26" alt="Tools"/><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools Stack"/>
-    </td>
-    <td align="center" >
-      <img src="https://img.shields.io/badge/GAME%20DEV-1a1b26?style=flat-square&labelColor=c0caf5&color=1a1b26" alt="Game Dev"/><br/><br/>
-      <img src="https://skillicons.dev/icons?i=godot,gamemakerstudio" alt="GameDev Stack"/>
-    </td>
-  </tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3" width="100%"/>
-
 <br>
 
 <div align="center">
