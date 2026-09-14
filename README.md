@@ -13,7 +13,7 @@
   "name": "Vinicius Teider",
   "role": "Software Engineer",
   "location": "Curitiba, Paraná, Brazil",
-  "education": "Computer Science @ PUCPR (2022-2026)",
+  "education": "Computer Science @ PUCPR (2022-2026)", "Postgraduate - Software Architecture @ FIAP (2026-2027)",
   "current_company": "EBANX",
   "passions": [
     "Building production systems in global environments",
